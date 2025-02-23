@@ -1,0 +1,23 @@
+kEYWORDS:
+HDFS: 128,3
+DN
+NN: metadata, FS image, edit log,SIngle point of failure
+GN
+FAult tolerance
+
+
+
+Yarn:
+RM
+NM
+AP
+Container
+Scheduler: FIFO capacity, Fair
+
+MapReduce:
+Input split
+Map
+combine
+sort/shuffle
+reduce
+result

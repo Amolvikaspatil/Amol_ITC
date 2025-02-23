@@ -1,0 +1,13 @@
+List comprehension
+git basic commands
+
+SQL command
+//read data csv load it to MySQL
+//sqlalchamy library
+ 
+
+Here’s what I’ll do:
+
+Create Tables: I'll create three tables: Employee, Department, and Project.
+Insert Data: I'll insert sample data into these tables.
+Perform SQL Operations: I'll demonstrate various SQL operations like ALTER, UPDATE, DELETE, GROUP BY, ORDER BY, and JOIN using primary and foreign keys.
